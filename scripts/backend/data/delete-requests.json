@@ -1,0 +1,11 @@
+[
+  {
+    "id": "delreq_1754228693486_iuonzk8sy",
+    "promiseId": "promise_1754224414338_rr0h8isa7",
+    "requesterAddress": "0x84a610d2da5f123be33b6ab4c001b25b399ff5c2",
+    "status": "approved",
+    "requestedAt": 1754228693486,
+    "processedBy": "0x84a610d2da45f123be33b64b4c001b25b399ff5c2",
+    "processedAt": 1754228697190
+  }
+]

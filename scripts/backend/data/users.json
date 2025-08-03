@@ -1,0 +1,24 @@
+{
+  "0x325712b2ac6144ff751a861ac5b411e99d0fab8c": {
+    "address": "0x325712b2ac6144ff751a861ac5b411e99d0fab8c",
+    "reputation": 0,
+    "completedPromises": 0,
+    "failedPromises": 0,
+    "totalPromises": 3,
+    "streak": 0,
+    "level": 1,
+    "joinedAt": 1754214218353,
+    "lastActive": 1754224372489
+  },
+  "0x84a610d2da5f123be33b6ab4c001b25b399ff5c2": {
+    "address": "0x84a610d2da5f123be33b6ab4c001b25b399ff5c2",
+    "reputation": 0,
+    "completedPromises": 0,
+    "failedPromises": 0,
+    "totalPromises": 4,
+    "streak": 0,
+    "level": 1,
+    "joinedAt": 1754214740544,
+    "lastActive": 1754228697195
+  }
+}

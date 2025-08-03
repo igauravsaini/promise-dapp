@@ -1,0 +1,17 @@
+{
+  "name": "promise-registry-blockchain",
+  "version": "1.0.0",
+  "description": "Lisk SDK backend for Public Promise Registry",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "lisk-sdk": "^6.0.0",
+    "@liskhq/lisk-client": "^6.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
